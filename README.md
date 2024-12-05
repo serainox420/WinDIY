@@ -6,8 +6,7 @@
 ---
 
 > ## Contents:
-1. [**System Image**](https://github.com/serainox420/WinDIY/edit/personal/README.md#system-image)
-   - Official
+1. **System Image**
    - Unofficial
 3. **Tools**
    - Official
