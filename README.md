@@ -1,5 +1,7 @@
 # WinDIY
-> ### Windows "Do It Yourself"
+> ### Windows "Do It Yourself" Toolkit
+![image](https://github.com/user-attachments/assets/ee36e0d4-6823-45c2-9838-d41169404b59)
+
 > Collection of various both Official & Unoficial tools and resources for debloating & customizing Windows yourself!\
 > **"If you have to use Windows, at least make it usable" ~ sx**
 
