@@ -86,6 +86,10 @@ The "Turn Windows features on or off" option is available on the left-hand side.
 
 ---
 
+### Modding
+[Classic Shell](http://www.classicshell.net/) - Reduce RAM usage by chaning looks to old Win 7 like
+---
+
 > #### Miscelanous Software
 > [NTLite](https://www.ntlite.com) -  GUI-based tool for modifying Windows installation ISOs \
 > [Media Creation Wrapper](https://github.com/AveYo/MediaCreationTool.bat) - A community script that customizes the official Microsoft Media Creation Tool. \
